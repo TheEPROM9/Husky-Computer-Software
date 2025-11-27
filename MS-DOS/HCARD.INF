@@ -1,0 +1,13 @@
+;Apex Clipper V34 UK
+config=d000,d000,307f,0200 20,08,02
+;ATT Keep in touch
+;config=d000,d000,307f,07e0 62,28,02
+;Nokia
+;config=d000,d000,347f,0000 30,00,00
+;GPS old
+;config=d000,d000,387f,0000 41
+modem
+io=03f8-03ff
+irq=04
+;3vcard
+5vcard
